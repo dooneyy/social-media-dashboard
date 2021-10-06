@@ -1,7 +1,7 @@
 # Frontend Mentor - Social media dashboard with theme switcher solution
 
 This is a solution to the [Social media dashboard with theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H).
-Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Frontend Mentor challenges help you improve your coding skills by building projects. 
 
 ## Table of contents
 
@@ -47,8 +47,8 @@ Users should be able to:
 
 ### Continued development
 
-I am still learning how to write DRY css codes.
-My React isnt solid yet.
+I am still learning how to write DRY CSS codes.
+My React isn't solid yet.
 
 
 ## Author
